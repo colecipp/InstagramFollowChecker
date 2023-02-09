@@ -392,8 +392,8 @@ class SportsOracles():
 def main():
 
         time1 = time.perf_counter()
-        temp = "cole_cipp88"
-        temp2 = "BellportG1a2M3eFootballB4r5e6a7k8e9r88"
+        temp = "username"
+        temp2 = "password"
         Following = SportsOracles().Insta(temp, temp2)
         time2 = time.perf_counter()
         time3 = time2-time1
